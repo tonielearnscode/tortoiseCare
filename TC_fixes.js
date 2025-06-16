@@ -4680,7 +4680,7 @@ if (reversed == null) { reversed = false; }
 			this.gotoAndPlay(178);
 			
 			setTimeout(function() {
-		        window.open("http://www.google.com", "_blank");
+		        window.open("https://www.toniebrehenydesigns.com/", "_blank");
 		    }, 1400); 
 		}
 	}
